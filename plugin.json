@@ -9,8 +9,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Der Marktplatz real.de ist in plentymarkets 7 bereits integriert. Um real.de in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei real.de nötig.",
-    "en": "real.de is already integrated into your plentymarkets 7 system. A real.de seller account is mandatory for setting up real.de in plentymarkets."
+    "de": "Über die Anbindung des Online-Marktplatzes real.de wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf real.de zu listen. Die Schnittstelle zu real.de ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace real.de enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on real.de. The interface to real.de is already integrated into plentymarkets 7."
   },
   "license": "AGPL-3.0",
   "categories": [
