@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "real",
   "marketplaceName": "real.de",
   "description": "Über die Anbindung des Online-Marktplatzes real.de wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf real.de zu listen.",
